@@ -1,7 +1,7 @@
 package softlayer
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 
 	slclient "github.com/maximilien/softlayer-go/client"
 	softlayer "github.com/maximilien/softlayer-go/softlayer"
